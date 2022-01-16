@@ -240,47 +240,47 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@galaxy-ultra/alert@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.27.tgz#0514d14d96369e1a469d31b8e89f844c43926864"
-  integrity sha512-snDB+IT2HmFUufAQH4nva0tlf8K36Ok6jwgLDUPHMvK2uTtvBm2d20eCbXKN2ZSuKgy2Fj2r7kHMw9mapXXYZg==
+"@galaxy-ultra/alert@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.28.tgz#24661572b91033cd08fdc27da31ddc549edc9af0"
+  integrity sha512-zZwcack6nUyqQt88luUf0rXYfrL/SrLjz67uLyj2k8d7ngQZutXXil9CTqKNga4+DRC/w1B/UXQK6d6puIaJMw==
 
-"@galaxy-ultra/breadcrumb@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.27.tgz#fc754e9a320ba576eba87913cd03a591d9918e60"
-  integrity sha512-iTqyC3v2jA9LcuZ7OdH7+77dnZOue1pPD9APvSQSJYtPzgFRCPGm+M5FsiiqAjrFBWg39e0DzPyerB+sT3Lhow==
+"@galaxy-ultra/breadcrumb@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.28.tgz#471b33520f041c2a0cc9797982d776ddefc4f1d5"
+  integrity sha512-nAerNiYjUV8kQ+w5ygSxE4hjwu+erAZJJBsSC+i+Sj7JeVF2dYv8SbeAS78m5W2obutOA8YgGBaqh/gHL91cOQ==
 
-"@galaxy-ultra/button@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.27.tgz#71b692fac5ee30b92b5563ca88ebfcb5255394e0"
-  integrity sha512-Ftd05jybWhQh2bbLFVhIkOyWTA1DdyVvuUXGPK7ldx9wX1os3huyUN/BZMXv4pgxHp4EN2nTEdhQL4PHjNMY8w==
+"@galaxy-ultra/button@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.28.tgz#b6cbdab7d29f27806c376fc6f22271dbb72e4d6d"
+  integrity sha512-vfNRALhIZ7I/qJ645Uopwx4RlQFClUjEs3GhZ0T9WKbA4mlMt4SwgUY7qJZ0ZSIHcBClN4NNylUYiEETV+cZlw==
 
-"@galaxy-ultra/card@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.27.tgz#af530f629e592c475ad4c51b644d38b569004241"
-  integrity sha512-ypg1kaxhKbyA4v9CUfwqamg9a73LCxLViT2hdMoQ8ghtCgtvx8mx2205HgmcG69eMQM3fTUoO0B2Iw++Q95H4A==
+"@galaxy-ultra/card@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.28.tgz#de6f1a18a8a2b00a02e480ebd6f983bbb8f1fb52"
+  integrity sha512-ygUc7uTV9ewDCpKgW7rr60aoXn0rroS4EPOQIqVi5S7FZmQYEko7yAXdQBT+vKuRA9YPZO7KbnU2kHf1hXb5UQ==
 
-"@galaxy-ultra/modal@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.27.tgz#d9dd51f73aa583320758787bdb35d24a06ec436e"
-  integrity sha512-pVfFlbkDlKFStbXBhOsIw4/DUzp32RkC5mPfRfEjjq/oDZsG1R6N1ZtXNdLdO5cMUj11mSaPJjLOvHATdqwyQw==
+"@galaxy-ultra/modal@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.28.tgz#f6d18e594748fef3d238cd916f50aa6bc11855ee"
+  integrity sha512-9VwxXN7MZqCCnFqWw/bBCrfWXRkQaxBWk/6KtkuGaFunY22Tbr3OhgyZSRdoLijy0Z+C5bpEhBFlljSVgEo+xA==
 
-"@galaxy-ultra/switch@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.27.tgz#14e38424ef83061a30939015c46504bfd2b703bf"
-  integrity sha512-PcO0s2Lq5s/irIEMsNOaL+Iw1FSKWs6o1RmkvhtVhnW6GiBLX/lKAdH6665+d9soOWM0hbSSmd+7Zld0Q55v3Q==
+"@galaxy-ultra/switch@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.28.tgz#cb981691433787ba94cb4ff95ce2ffadca5b9295"
+  integrity sha512-cZqzH0URQpEoBw5vXN9xte7WrFQFh9w41iYF4h0RiB8P+gMlkGg93SanwZPPeof1VnIDl9R2IyvZT2F2yr7RLg==
 
-"@galaxy-ultra/ui@^0.0.27":
-  version "0.0.27"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.27.tgz#6163ac422dd0ca888dfbc00cb2cb4b8adec796e0"
-  integrity sha512-sCTAkSGD6c5TZZSOF9Ve/RJxocUV8lRGQHWs6RM2RHiimlbdNwBpaaQr4UxXoyw44xtnaHNEioMkhjc0Le1P8Q==
+"@galaxy-ultra/ui@^0.0.28":
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.28.tgz#2961f87c444e3d61c3d4e0c273b15a2b2e4eebf0"
+  integrity sha512-NaJJsIsnVMwb3Tg3X2vWUgn7VtfJi1YclszxOssEnu1q2GOakCTj+lrwNQ0lR2zU0x0gutTWpc02urIiOFdAhg==
   dependencies:
-    "@galaxy-ultra/alert" "^0.0.27"
-    "@galaxy-ultra/breadcrumb" "^0.0.27"
-    "@galaxy-ultra/button" "^0.0.27"
-    "@galaxy-ultra/card" "^0.0.27"
-    "@galaxy-ultra/modal" "^0.0.27"
-    "@galaxy-ultra/switch" "^0.0.27"
+    "@galaxy-ultra/alert" "^0.0.28"
+    "@galaxy-ultra/breadcrumb" "^0.0.28"
+    "@galaxy-ultra/button" "^0.0.28"
+    "@galaxy-ultra/card" "^0.0.28"
+    "@galaxy-ultra/modal" "^0.0.28"
+    "@galaxy-ultra/switch" "^0.0.28"
 
 "@hapi/accept@5.0.2":
   version "5.0.2"
