@@ -74,6 +74,10 @@ export const DOCS_MENU: DocsMenu[] = [
       //   route: '/components/rate',
       // },
       {
+        title: 'Radio',
+        route: '/components/radio',
+      },
+      {
         title: 'Switch',
         route: '/components/switch',
       },
