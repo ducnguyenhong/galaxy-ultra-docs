@@ -76,15 +76,32 @@ const RadioUI: React.FC = () => {
           <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-radio-props">Props</h3>
           <h3 className='font-semibold mb-5 text-xl dark:text-gray-300'>• Radio</h3>
           <TableDocs data={[
-            { prop: 'children', dataType: `Radio.Item, ReactNode`, defaultValue: ``, description: "Radio children" },
+            { prop: 'children', dataType: `ReactNode`, defaultValue: ``, description: "Radio children (label)" },
+            { prop: 'value', dataType: `any`, defaultValue: ``, description: "Radio value" },
+            { prop: 'checked', dataType: `boolean`, defaultValue: `false`, description: "Radio status" },
+            { prop: 'size', dataType: `"small", "normal", "large"`, defaultValue: `"normal"`, description: "Radio size" },
+            {
+              prop: 'label',
+              dataType: `Object type include:
+  • content: string, JSX.Element;
+  • position: "top", "bottom", "left", "right";`,
+              defaultValue: ``,
+              description: "Radio label",
+              preWrap: true,
+            },
+            { prop: 'onChange', dataType: `(checked: boolean, value: any) => void`, defaultValue: ``, description: "Event on change radio status" },
+            { prop: 'wrapperClassName', dataType: `string`, defaultValue: ``, description: "Radio wrapper class name" },
           ]} />
         </div>
 
         {/* PROPS Radio Group*/}
         <div className="mt-20">
-          <h3 className='font-semibold mb-5 text-xl dark:text-gray-300'>• Radio.Item</h3>
+          <h3 className='font-semibold mb-5 text-xl dark:text-gray-300'>• Radio.Group</h3>
           <TableDocs data={[
-            { prop: 'children', dataType: `ReactNode`, defaultValue: ``, description: "Radio.Item children" },
+            { prop: 'children', dataType: `Radio`, defaultValue: ``, description: "Radio Group children" },
+            { prop: 'value', dataType: `any`, defaultValue: ``, description: "Value of Radio Group" },
+            { prop: 'onChange', dataType: `(value: any) => void`, defaultValue: ``, description: "Event on change radio group status" },
+            { prop: 'type', dataType: `"vertical", "horizontal"`, defaultValue: `"vertical"`, description: "Radio Group type" },
           ]} />
         </div>
       </div>
