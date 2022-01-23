@@ -240,53 +240,59 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@galaxy-ultra/alert@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.31.tgz#b4705a29af706e9ec2cd4f02f4c75f5dafb9d4cc"
-  integrity sha512-kDDP5qtjAsxmEiqe5IHnb8mauITVUcAfZv0o8W39HgzRQ6nGndQeyNS8PUZuqP6fCKETARCveAAQ4tHXMKPEjQ==
+"@galaxy-ultra/alert@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.32.tgz#b88a45454fc35e1b55ffd2db63faabfbad9ebc97"
+  integrity sha512-Djw+PYvfCHKC+zTVTVAL7EbGxfPHf3I88CA0WvHKaqlGC7DoZiQYzAWwfkDozSt1zqAJ/4J+yIqYiBM+ZWg3LQ==
 
-"@galaxy-ultra/breadcrumb@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.31.tgz#7cb6f12f4e30ed2a68b609ffdba3e123c633990c"
-  integrity sha512-6Kn/nm+EXvr6BprFHMzVGdl/4vIz4yYctefiw3GtgypZEKZL0laf6JN9Pse46e5TzrWQZ6N26if63tIUIbczHQ==
+"@galaxy-ultra/breadcrumb@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.32.tgz#6231573393510131728ce474c50ef6134e62f30b"
+  integrity sha512-Ae+zauYWfHQiLGrlPv3kvWKsjb72dw3FPBTp/mUPv9VtUckJoge1fIe5vLCTggaCgfdpR165GA8KlzT0OeznJA==
 
-"@galaxy-ultra/button@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.31.tgz#2b17d1485d5dff4e50b8f9082c09d4cbe6780cff"
-  integrity sha512-6LBWxxHgWloxP+iX/swPu/2yhcGwbgNRorWykCplSZ/8F3GhxX8kS27NH7CTOELY1m+IIrGy9DSEKjKKSXg48w==
+"@galaxy-ultra/button@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.32.tgz#8841064f8f4f047eb2f8b91eae94617b051d4b49"
+  integrity sha512-lE+HY6Y+grkrv3ZlSQnULzwioc68JY/Eaiyg3YkXglfnDvkZIvwJtzHweQ7xnZpohG/224cytd6hT7vtVbgkTQ==
 
-"@galaxy-ultra/card@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.31.tgz#5acf3e66cb765c11d9f18674e813453ff14007be"
-  integrity sha512-hYI9/5v6h1lghJ5zqVLGu37eQn9IF9eXE0Fyn+EplWthRism5OsxoQBA8PKKPVEHGP0z9rY5dYQ/d7q65OG5sQ==
+"@galaxy-ultra/card@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.32.tgz#fd4b12c38c6014f042ea5c6c952711aac6c93e42"
+  integrity sha512-vuJ7G/NCol1Fct+P0BRaxkU74w6iOH+9vznwxWE70BTu43nkp6mO24E0Vlsbkyz9agNWgR670ONfkyQ3ocMA/Q==
 
-"@galaxy-ultra/modal@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.31.tgz#e1d45274866d961050ba40726be89b53bfc4b288"
-  integrity sha512-+65M9gD2971l+2ApPdYUYyjna36Jkdkp9nOVeuOB7Lp4saV7xNiFI5nSgb/i5EUJWZt8Yt/8pNTHR8MfzBUyMQ==
+"@galaxy-ultra/loading@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/loading/-/loading-0.0.32.tgz#1f36d37df942240f4365cd5b10f8dd8b2c846e42"
+  integrity sha512-jiEtNIBz0s/Q9msR5GhM6qKCOhs1ZJu7xb1tYJlDZXTgkJsjC21oRaviVvC19b5C35yMNC4GPGlg9a3WMIC1uA==
 
-"@galaxy-ultra/radio@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.31.tgz#4e5bd8c02884984c1eb596be95561551a4820179"
-  integrity sha512-VR31lWdvoWx0Az+6eodXD6Tm4dhr4vHy+2ipmzTyZcoxW/ufjyyCIAXwNxmr+R7xZ9wUUa3E7ExMaZ17LhBUjQ==
+"@galaxy-ultra/modal@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.32.tgz#2ddc01d4ad0c436160774763953cbef306f9164d"
+  integrity sha512-yUcaR0yuZ+SP5Yw0I6nGZGhbfbxc+fkvgYTuPsFhfc109hG5RQYi7xm6Z8dAscO4/EnlQi4GX9tqGBhU9uQo6w==
 
-"@galaxy-ultra/switch@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.31.tgz#f73a177fc8becae9660cebd25714a14ca83126c5"
-  integrity sha512-I2fzv5dZwjbA+tE5BkDoUgASk7h2R2Z9MvwQA/hPThiJWQCSey5RjCfaakPO/h+hwM0hIO7BtjldVWTmsVF1LQ==
+"@galaxy-ultra/radio@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.32.tgz#9a00506fac6d81cc81dfde465f28aa04424dac18"
+  integrity sha512-7WAXqvgGcSTodDH3oYJxPGOWNF1PwQBSSRQDj+ikHNd9Pgy09rlJcyhlR3/cbaY/HsfGc6dk991CyHBqT/+nQw==
 
-"@galaxy-ultra/ui@^0.0.31":
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.31.tgz#666dc410a3ebfb1be606dcdf63a4c1a3ebf3c4d7"
-  integrity sha512-RFcXJGq9mmKUnD1dT3lwMQ+gBvSKGMzZihHe7eeEXYfjGZsxrqgM8DW+OQs/8ShX59bs57WA5nHGkzSHfHGT5A==
+"@galaxy-ultra/switch@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.32.tgz#ab2122bd82e04b5e5ac183f734c1c04d8393e116"
+  integrity sha512-dnod9rEEFPw/V7my2RzHOSERk3LPysdLDmWuvWM9ssC4RsW78gz8Rvx9zVhL955RdPfKtNciR8p0iNPdMrg5KA==
+
+"@galaxy-ultra/ui@^0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.32.tgz#69b67036ffb195c5d9eff6cbbefa49d9cfe62b44"
+  integrity sha512-qq4+1M145hCyn9I7PBYPhFGKE/FpslUhFw+v4r/yKV44lxb//X5AirMiU04aJJ9x7io7W1aXQnmjljSVkD9COQ==
   dependencies:
-    "@galaxy-ultra/alert" "^0.0.31"
-    "@galaxy-ultra/breadcrumb" "^0.0.31"
-    "@galaxy-ultra/button" "^0.0.31"
-    "@galaxy-ultra/card" "^0.0.31"
-    "@galaxy-ultra/modal" "^0.0.31"
-    "@galaxy-ultra/radio" "^0.0.31"
-    "@galaxy-ultra/switch" "^0.0.31"
+    "@galaxy-ultra/alert" "^0.0.32"
+    "@galaxy-ultra/breadcrumb" "^0.0.32"
+    "@galaxy-ultra/button" "^0.0.32"
+    "@galaxy-ultra/card" "^0.0.32"
+    "@galaxy-ultra/loading" "^0.0.32"
+    "@galaxy-ultra/modal" "^0.0.32"
+    "@galaxy-ultra/radio" "^0.0.32"
+    "@galaxy-ultra/switch" "^0.0.32"
 
 "@hapi/accept@5.0.2":
   version "5.0.2"
