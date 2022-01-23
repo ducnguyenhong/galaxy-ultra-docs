@@ -58,6 +58,10 @@ export const DOCS_MENU: DocsMenu[] = [
       //   route: '/components/text-input',
       // },
       {
+        title: 'Loading',
+        route: '/components/loading',
+      },
+      {
         title: 'Modal',
         route: '/components/modal',
       },
