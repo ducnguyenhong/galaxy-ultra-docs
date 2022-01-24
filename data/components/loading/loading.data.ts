@@ -1,6 +1,6 @@
-export const LOADING_CODE_SANDBOX_NORMAL = 'https://codesandbox.io/s/galaxy-ultra-loading-rubq8';
-export const LOADING_CODE_SANDBOX_CUSTOM_SIZE = 'https://codesandbox.io/s/galaxy-ultra-loading-s74w5';
-export const LOADING_CODE_SANDBOX_CUSTOM_COLOR = 'https://codesandbox.io/s/galaxy-ultra-loading-s74w5';
+export const LOADING_CODE_SANDBOX_NORMAL = 'https://codesandbox.io/s/galaxy-ultra-loading-v44k8';
+export const LOADING_CODE_SANDBOX_CUSTOM_SIZE = 'https://codesandbox.io/s/galaxy-ultra-loading-2odim';
+export const LOADING_CODE_SANDBOX_CUSTOM_COLOR = 'https://codesandbox.io/s/galaxy-ultra-loading-cvdoq';
 
 export const LOADING_CODE_IMPORT = `import Loading from "@galaxy-ultra/loading"`;
 
