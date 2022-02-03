@@ -104,7 +104,7 @@ const TabUI: React.FC = () => {
 
         {/* Tab position*/}
         <div className='mt-20'>
-          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-normal">Tab with position</h3>
+          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-position">Tab with position</h3>
           <div className='flex items-center border dark:border-gray-600 rounded px-5 py-10 flex-col'>
             <div>
               <Tab defaultActiveKey='2' activeKey="1" position="bottom">
@@ -119,7 +119,7 @@ const TabUI: React.FC = () => {
 
         {/* Tab wrapper*/}
         <div className='mt-20'>
-          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-normal">Tab with wrapper</h3>
+          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-wrapper">Tab with wrapper</h3>
           <div className='flex items-center border dark:border-gray-600 rounded px-5 py-10 flex-col'>
             <div>
               <Tab defaultActiveKey='2' activeKey="1" isWrapper>
@@ -134,7 +134,7 @@ const TabUI: React.FC = () => {
 
         {/* Tab disabled*/}
         <div className='mt-20'>
-          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-normal">Disabled tab</h3>
+          <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-disable">Disabled tab</h3>
           <div className='flex items-center border dark:border-gray-600 rounded px-5 py-10 flex-col'>
             <div>
               <Tab defaultActiveKey='2' activeKey="1">
@@ -152,8 +152,13 @@ const TabUI: React.FC = () => {
           <h3 className='font-semibold mb-5 text-3xl dark:text-gray-300' id="anchor-tab-props">Props</h3>
           <h3 className='font-semibold mb-5 text-xl dark:text-gray-300'>• Tab</h3>
           <TableDocs data={[
-            { prop: 'children', dataType: `Tab.Item, ReactNode`, defaultValue: ``, description: "Tab children" },
-            { prop: 'separatorIcon', dataType: `string, JSX.Element`, defaultValue: `Arrow icon`, description: "Separator icon" },
+            { prop: 'children', dataType: `Tab.Item`, defaultValue: ``, description: "Tab children" },
+            { prop: 'activeKey', dataType: `string`, defaultValue: ``, description: "Current tab key" },
+            { prop: 'defaultActiveKey', dataType: `string`, defaultValue: ``, description: "Default tab key" },
+            { prop: 'position', dataType: `"top", "bottom", "left", "right"`, defaultValue: `"top"`, description: "Position of tab content" },
+            { prop: 'separator', dataType: `boolean`, defaultValue: `true`, description: "Separator between control and content" },
+            { prop: 'isWrapper', dataType: `boolean`, defaultValue: `false`, description: "Tab control wrapper" },
+            { prop: 'onChange', dataType: `(key: string) => void`, defaultValue: ``, description: "Event on change tab" },
           ]} />
         </div>
 
@@ -161,8 +166,10 @@ const TabUI: React.FC = () => {
         <div className="mt-20">
           <h3 className='font-semibold mb-5 text-xl dark:text-gray-300'>• Tab.Item</h3>
           <TableDocs data={[
-            { prop: 'children', dataType: `ReactNode`, defaultValue: ``, description: "Tab.Item children" },
-            { prop: 'active', dataType: `boolean`, defaultValue: `false`, description: "Tab Item active" },
+            { prop: 'children', dataType: `ReactNode`, defaultValue: ``, description: "Tab Item children" },
+            { prop: 'tabKey', dataType: `string`, defaultValue: ``, description: "Each tab item has a unique key tab" },
+            { prop: 'title', dataType: `string | JSX.Element`, defaultValue: ``, description: "Tab item title (Control title)" },
+            { prop: 'disabled', dataType: `boolean`, defaultValue: `false`, description: "Tab Item disable" },
           ]} />
         </div>
       </div>
@@ -171,7 +178,10 @@ const TabUI: React.FC = () => {
         <div className="sticky right-0 top-32">
           <DocsAnchor items={[
             { id: 'anchor-tab-normal', title: 'Tab' },
-            { id: 'anchor-tab-icon', title: 'Tab with custom icon' },
+            { id: 'anchor-tab-icon', title: 'Tab with icon' },
+            { id: 'anchor-tab-position', title: 'Tab with position' },
+            { id: 'anchor-tab-wrapper', title: 'Tab with wrapper' },
+            { id: 'anchor-tab-disable', title: 'Disabled tab' },
             { id: 'anchor-tab-props', title: 'Props' },
           ]} />
         </div>
