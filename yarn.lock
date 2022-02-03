@@ -240,59 +240,65 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@galaxy-ultra/alert@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.32.tgz#b88a45454fc35e1b55ffd2db63faabfbad9ebc97"
-  integrity sha512-Djw+PYvfCHKC+zTVTVAL7EbGxfPHf3I88CA0WvHKaqlGC7DoZiQYzAWwfkDozSt1zqAJ/4J+yIqYiBM+ZWg3LQ==
+"@galaxy-ultra/alert@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.33.tgz#5bd66abccef00d76401d9c208664b56c424f7472"
+  integrity sha512-lMXDBrbKDWzpNyG/Sv6PRQe+JIeOkX0aAltSqssFBxqFgIyg+ix5KVZz4xAom/sfOV/o2tzCtZSOigoihQFcNA==
 
-"@galaxy-ultra/breadcrumb@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.32.tgz#6231573393510131728ce474c50ef6134e62f30b"
-  integrity sha512-Ae+zauYWfHQiLGrlPv3kvWKsjb72dw3FPBTp/mUPv9VtUckJoge1fIe5vLCTggaCgfdpR165GA8KlzT0OeznJA==
+"@galaxy-ultra/breadcrumb@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.33.tgz#c488b1590f33a9425b737caef97bf35bceb3ee0f"
+  integrity sha512-ulc4Mu+HL6OElwDnaV0aCfxKvQzAEaZq08lRboJxl0b4Nnk35CwxgVfDwvG8FbgvKcwoXhO+vFVV4saKZWAA0w==
 
-"@galaxy-ultra/button@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.32.tgz#8841064f8f4f047eb2f8b91eae94617b051d4b49"
-  integrity sha512-lE+HY6Y+grkrv3ZlSQnULzwioc68JY/Eaiyg3YkXglfnDvkZIvwJtzHweQ7xnZpohG/224cytd6hT7vtVbgkTQ==
+"@galaxy-ultra/button@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.33.tgz#241073d084bc52956660e23dcb2ae2445e826ab8"
+  integrity sha512-ZJdoogrdyLkLGoOYt9O858Q5Mv2I/R6hgP46AP7bX+/okAbhZFdQBvjeAkc5yU+bUUtZxrBKw1kf3ySteaAKKg==
 
-"@galaxy-ultra/card@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.32.tgz#fd4b12c38c6014f042ea5c6c952711aac6c93e42"
-  integrity sha512-vuJ7G/NCol1Fct+P0BRaxkU74w6iOH+9vznwxWE70BTu43nkp6mO24E0Vlsbkyz9agNWgR670ONfkyQ3ocMA/Q==
+"@galaxy-ultra/card@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.33.tgz#d92f0aecabbe350411630ca9f89a66f1fd335666"
+  integrity sha512-4Hf/tup8TbBZ/rs2Ei8nUH2dn5Nc3YVjxbfEgoMEjDHWISyDjd4t3K1TSBsXyhvJ9UhOq2XLQmR1THtJleLy8w==
 
-"@galaxy-ultra/loading@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/loading/-/loading-0.0.32.tgz#1f36d37df942240f4365cd5b10f8dd8b2c846e42"
-  integrity sha512-jiEtNIBz0s/Q9msR5GhM6qKCOhs1ZJu7xb1tYJlDZXTgkJsjC21oRaviVvC19b5C35yMNC4GPGlg9a3WMIC1uA==
+"@galaxy-ultra/loading@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/loading/-/loading-0.0.33.tgz#be0c466d2a01e0f8cdd757d4229cf05f3e682410"
+  integrity sha512-wQqYyfrxEU1FTa+2yyRDXyfj/IbOwjwlmiyitOhRf1Y+rrUZAiZOfWvFv6E/8lwOZtOLxbw0hB4d41H0Dzn0+g==
 
-"@galaxy-ultra/modal@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.32.tgz#2ddc01d4ad0c436160774763953cbef306f9164d"
-  integrity sha512-yUcaR0yuZ+SP5Yw0I6nGZGhbfbxc+fkvgYTuPsFhfc109hG5RQYi7xm6Z8dAscO4/EnlQi4GX9tqGBhU9uQo6w==
+"@galaxy-ultra/modal@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.33.tgz#2aae00fa6713df00d1c0564b5778c9583640bd3e"
+  integrity sha512-aGRT8cltCR0jHq4j2TkXt8Y0IJARyf6BhgSl1rpZwnliYbKjICGT4AZaMm05hb1AuxTENYu0Rw4x9JX3TtI3pA==
 
-"@galaxy-ultra/radio@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.32.tgz#9a00506fac6d81cc81dfde465f28aa04424dac18"
-  integrity sha512-7WAXqvgGcSTodDH3oYJxPGOWNF1PwQBSSRQDj+ikHNd9Pgy09rlJcyhlR3/cbaY/HsfGc6dk991CyHBqT/+nQw==
+"@galaxy-ultra/radio@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.33.tgz#f8e9429644baf903828ae404578d7b1fe4eb784e"
+  integrity sha512-SOXHgohJix1wbZc3RH5KvoT94WCRflv3D1yONUuAzmGBC12OTZRIiQCldE3oYiHzuT2rIUCYfqVcNKeXkRuT/w==
 
-"@galaxy-ultra/switch@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.32.tgz#ab2122bd82e04b5e5ac183f734c1c04d8393e116"
-  integrity sha512-dnod9rEEFPw/V7my2RzHOSERk3LPysdLDmWuvWM9ssC4RsW78gz8Rvx9zVhL955RdPfKtNciR8p0iNPdMrg5KA==
+"@galaxy-ultra/switch@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.33.tgz#87493b2f58e926862362335a5b81fc787c66c666"
+  integrity sha512-qUNmL7rikZi5lHDifLkLCHurXCY2w3rZB4fG0423IlABGyiePwvsmEDfvGsYCNliYlV1YrMCt/oOQ6K2yIkNBQ==
 
-"@galaxy-ultra/ui@^0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.32.tgz#69b67036ffb195c5d9eff6cbbefa49d9cfe62b44"
-  integrity sha512-qq4+1M145hCyn9I7PBYPhFGKE/FpslUhFw+v4r/yKV44lxb//X5AirMiU04aJJ9x7io7W1aXQnmjljSVkD9COQ==
+"@galaxy-ultra/tab@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/tab/-/tab-0.0.33.tgz#b6731c3e43b8c4def99056cc357fe06a9f2fb90e"
+  integrity sha512-ctNi35e2LseHMhDgA/H9DwchKYHeO9EQiZLh+GJnfWuxot+YmIeYiisWD5dRBAFeMk6HO1yiP/frJ1RjntomnQ==
+
+"@galaxy-ultra/ui@^0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.33.tgz#2393c2df8e011d6ea1d3b2c3f30c31a62c18ea09"
+  integrity sha512-zO4CfLA4sjE/pqOXjn9X1PXB5FGaW2Zhum1Bzhqmmur0Lgv8KaOIGnEGXFxAHeOMsTw3lKDgaYO75InJAz7F5w==
   dependencies:
-    "@galaxy-ultra/alert" "^0.0.32"
-    "@galaxy-ultra/breadcrumb" "^0.0.32"
-    "@galaxy-ultra/button" "^0.0.32"
-    "@galaxy-ultra/card" "^0.0.32"
-    "@galaxy-ultra/loading" "^0.0.32"
-    "@galaxy-ultra/modal" "^0.0.32"
-    "@galaxy-ultra/radio" "^0.0.32"
-    "@galaxy-ultra/switch" "^0.0.32"
+    "@galaxy-ultra/alert" "^0.0.33"
+    "@galaxy-ultra/breadcrumb" "^0.0.33"
+    "@galaxy-ultra/button" "^0.0.33"
+    "@galaxy-ultra/card" "^0.0.33"
+    "@galaxy-ultra/loading" "^0.0.33"
+    "@galaxy-ultra/modal" "^0.0.33"
+    "@galaxy-ultra/radio" "^0.0.33"
+    "@galaxy-ultra/switch" "^0.0.33"
+    "@galaxy-ultra/tab" "^0.0.33"
 
 "@hapi/accept@5.0.2":
   version "5.0.2"

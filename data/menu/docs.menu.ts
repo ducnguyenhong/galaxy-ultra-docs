@@ -65,6 +65,10 @@ export const DOCS_MENU: DocsMenu[] = [
         title: 'Modal',
         route: '/components/modal',
       },
+      {
+        title: 'Tab',
+        route: '/components/tab',
+      },
       // {
       //   title: 'Table',
       //   route: '/components/table',
