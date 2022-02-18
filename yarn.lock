@@ -240,65 +240,71 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@galaxy-ultra/alert@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.33.tgz#5bd66abccef00d76401d9c208664b56c424f7472"
-  integrity sha512-lMXDBrbKDWzpNyG/Sv6PRQe+JIeOkX0aAltSqssFBxqFgIyg+ix5KVZz4xAom/sfOV/o2tzCtZSOigoihQFcNA==
+"@galaxy-ultra/alert@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/alert/-/alert-0.0.38.tgz#d02d9c9bdcaa4de335238a6b4b7aace8720072ee"
+  integrity sha512-eyBtj21/jkVn2fibz5jmdrWPbDMXAspkfanj8oLume9GsDvkyhk1+Esrq7mCqV6ba+rTY0N56lG2HJ+GfZzDvA==
 
-"@galaxy-ultra/breadcrumb@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.33.tgz#c488b1590f33a9425b737caef97bf35bceb3ee0f"
-  integrity sha512-ulc4Mu+HL6OElwDnaV0aCfxKvQzAEaZq08lRboJxl0b4Nnk35CwxgVfDwvG8FbgvKcwoXhO+vFVV4saKZWAA0w==
+"@galaxy-ultra/breadcrumb@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/breadcrumb/-/breadcrumb-0.0.38.tgz#82835d380f41df77d90e1a734d7ee51b932aad39"
+  integrity sha512-2pe9UH/pi/zDysEnt/D57+8PdOcSNJy0yYeeBxuFJIFwJsBNVzwYxKPrs1AKAtcfqn2tnKFzLpaqsV5UN+QyUg==
 
-"@galaxy-ultra/button@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.33.tgz#241073d084bc52956660e23dcb2ae2445e826ab8"
-  integrity sha512-ZJdoogrdyLkLGoOYt9O858Q5Mv2I/R6hgP46AP7bX+/okAbhZFdQBvjeAkc5yU+bUUtZxrBKw1kf3ySteaAKKg==
+"@galaxy-ultra/button@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/button/-/button-0.0.38.tgz#a426c0f72d94b0652b82b594e4ad45518e874e72"
+  integrity sha512-MYQ8i8bZcpkAkRCxbyH9epZ2QfebL3hvIdKLuCReY91nnYdySTi1jzeDm8fZhGCGQpOv0pkq4eH3cHvPBswYXA==
 
-"@galaxy-ultra/card@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.33.tgz#d92f0aecabbe350411630ca9f89a66f1fd335666"
-  integrity sha512-4Hf/tup8TbBZ/rs2Ei8nUH2dn5Nc3YVjxbfEgoMEjDHWISyDjd4t3K1TSBsXyhvJ9UhOq2XLQmR1THtJleLy8w==
+"@galaxy-ultra/card@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/card/-/card-0.0.38.tgz#9b9c540aac39e40d2f88fc4fccdbc0c63b199e5f"
+  integrity sha512-9b1Tgv7zrBcpLr5j1pBlOhbqjrhsV2r9EoDDKy4JenSSWmcA81MXS7HHlcFbBvpiJiCDG+G3uA8ZgjTCtwwVWw==
 
-"@galaxy-ultra/loading@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/loading/-/loading-0.0.33.tgz#be0c466d2a01e0f8cdd757d4229cf05f3e682410"
-  integrity sha512-wQqYyfrxEU1FTa+2yyRDXyfj/IbOwjwlmiyitOhRf1Y+rrUZAiZOfWvFv6E/8lwOZtOLxbw0hB4d41H0Dzn0+g==
+"@galaxy-ultra/loading@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/loading/-/loading-0.0.38.tgz#b8587d8beebaa4d97fd6ccacdd9a88cb34915b21"
+  integrity sha512-7G8V5fk/DtWhky/einGl/u1mX1KB8aok8qrCJ+elAKn96lZQpOeqPzx85ciSLdeNvzLQSr7idOefnn8Tho+icw==
 
-"@galaxy-ultra/modal@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.33.tgz#2aae00fa6713df00d1c0564b5778c9583640bd3e"
-  integrity sha512-aGRT8cltCR0jHq4j2TkXt8Y0IJARyf6BhgSl1rpZwnliYbKjICGT4AZaMm05hb1AuxTENYu0Rw4x9JX3TtI3pA==
+"@galaxy-ultra/modal@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/modal/-/modal-0.0.38.tgz#96bd7e129f6957b47d42c1f2674d919c5147a1da"
+  integrity sha512-PHK3yo3yfzVtzLBiSrlmhqqhZk3ci7x0+0UbgsjuaU0xRAxC/j2br+/DDduIz9ox6aqhsTPWQm3HsEBNt2oBSA==
 
-"@galaxy-ultra/radio@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.33.tgz#f8e9429644baf903828ae404578d7b1fe4eb784e"
-  integrity sha512-SOXHgohJix1wbZc3RH5KvoT94WCRflv3D1yONUuAzmGBC12OTZRIiQCldE3oYiHzuT2rIUCYfqVcNKeXkRuT/w==
+"@galaxy-ultra/radio@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/radio/-/radio-0.0.38.tgz#54b6113efd144cc7ee0aa1433ecc4b3e02fccaaf"
+  integrity sha512-R1J+PKil4wsT9csNkUCBAeb5Yrsav462DAZpJ8T54e9rc2Z9zylgrjtseqEW+RydGIdtEXw02kKLPDSaQn8ajw==
 
-"@galaxy-ultra/switch@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.33.tgz#87493b2f58e926862362335a5b81fc787c66c666"
-  integrity sha512-qUNmL7rikZi5lHDifLkLCHurXCY2w3rZB4fG0423IlABGyiePwvsmEDfvGsYCNliYlV1YrMCt/oOQ6K2yIkNBQ==
+"@galaxy-ultra/skeleton@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/skeleton/-/skeleton-0.0.38.tgz#b5fcbff7fcd5667185cd817d60084004df4c56de"
+  integrity sha512-lzknVZEGeJt2peS6ifhMz5I3gZO7mdafJMRAOsH3ysuuGdW64XS3apW6jjzw4rm0lYw8OUUdMk4fWApw+9Yf7g==
 
-"@galaxy-ultra/tab@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/tab/-/tab-0.0.33.tgz#b6731c3e43b8c4def99056cc357fe06a9f2fb90e"
-  integrity sha512-ctNi35e2LseHMhDgA/H9DwchKYHeO9EQiZLh+GJnfWuxot+YmIeYiisWD5dRBAFeMk6HO1yiP/frJ1RjntomnQ==
+"@galaxy-ultra/switch@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/switch/-/switch-0.0.38.tgz#207669c484de7c1547e7a7cd22c690cbf47fa2e8"
+  integrity sha512-eHvS0ZEdPk6c6huOVgsv1thUhzAoje9m1Cr/4pmUW9zzmsTY0ou1G0L5yT97HGY3r4TS4XI6vpjendj6qW82Cg==
 
-"@galaxy-ultra/ui@^0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.33.tgz#2393c2df8e011d6ea1d3b2c3f30c31a62c18ea09"
-  integrity sha512-zO4CfLA4sjE/pqOXjn9X1PXB5FGaW2Zhum1Bzhqmmur0Lgv8KaOIGnEGXFxAHeOMsTw3lKDgaYO75InJAz7F5w==
+"@galaxy-ultra/tab@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/tab/-/tab-0.0.38.tgz#1e3005ab64c08c48dd867bcb07bc548d0b3ae56e"
+  integrity sha512-BiYIYEdSa2+WEsrKFlUqyWfqlj62pyPOIS6qm1h+pqQ7nE3Tvy3hOMHtN/TvTCJ1Emz3tczqSVvsH8PDOrGbfQ==
+
+"@galaxy-ultra/ui@^0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@galaxy-ultra/ui/-/ui-0.0.38.tgz#dcb6d63dfd600bd4656cbe24b4046eb33c73a1b4"
+  integrity sha512-R7yNOatM4Z5zNzfnG7WlxXZsm9Ekh7YheUfnB7sWFeWPpR81C5vCvtKNzB27R8Qo/eyVfDVTQOqDrtsh+irK+A==
   dependencies:
-    "@galaxy-ultra/alert" "^0.0.33"
-    "@galaxy-ultra/breadcrumb" "^0.0.33"
-    "@galaxy-ultra/button" "^0.0.33"
-    "@galaxy-ultra/card" "^0.0.33"
-    "@galaxy-ultra/loading" "^0.0.33"
-    "@galaxy-ultra/modal" "^0.0.33"
-    "@galaxy-ultra/radio" "^0.0.33"
-    "@galaxy-ultra/switch" "^0.0.33"
-    "@galaxy-ultra/tab" "^0.0.33"
+    "@galaxy-ultra/alert" "^0.0.38"
+    "@galaxy-ultra/breadcrumb" "^0.0.38"
+    "@galaxy-ultra/button" "^0.0.38"
+    "@galaxy-ultra/card" "^0.0.38"
+    "@galaxy-ultra/loading" "^0.0.38"
+    "@galaxy-ultra/modal" "^0.0.38"
+    "@galaxy-ultra/radio" "^0.0.38"
+    "@galaxy-ultra/skeleton" "^0.0.38"
+    "@galaxy-ultra/switch" "^0.0.38"
+    "@galaxy-ultra/tab" "^0.0.38"
 
 "@hapi/accept@5.0.2":
   version "5.0.2"
@@ -493,6 +499,13 @@
   version "15.7.4"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.4.tgz#fcf7205c25dff795ee79af1e30da2c9790808f11"
   integrity sha512-rZ5drC/jWjrArrS8BR6SIr4cWpW09RNTYt9AMZo3Jwwif+iacXAqgVjm0B0Bv/S1jhDXKHqRVNCbACkJ89RAnQ==
+
+"@types/react-facebook-login@^4.1.4":
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/@types/react-facebook-login/-/react-facebook-login-4.1.4.tgz#64b9e7ef638ee3048a60c39acc8111c04aa9edf9"
+  integrity sha512-TX6y5shj0wCx8Whho05MqjAcb8lg1R33Jdy4raCl5b/t2nO9WC8/VLF+7u9cXzRd4ohN7Iz1RwuT+90LUROhyg==
+  dependencies:
+    "@types/react" "*"
 
 "@types/react-syntax-highlighter@^13.5.2":
   version "13.5.2"
@@ -3167,6 +3180,11 @@ react-dom@17.0.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     scheduler "^0.20.2"
+
+react-facebook-login@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/react-facebook-login/-/react-facebook-login-4.1.1.tgz#005121236a6ac0dee02099976fb1a3265f9d633e"
+  integrity sha512-COnHEHlYGTKipz4963safFAK9PaNTcCiXfPXMS/yxo8El+/AJL5ye8kMJf23lKSSGGPgqFQuInskIHVqGqTvSw==
 
 react-is@17.0.2:
   version "17.0.2"

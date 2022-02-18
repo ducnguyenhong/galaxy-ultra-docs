@@ -107,7 +107,7 @@ const LoadingUI: React.FC = () => {
             { prop: 'width', dataType: `number (pixel)`, defaultValue: `50`, description: "Loading width" },
             { prop: 'height', dataType: `number (pixel)`, defaultValue: `50`, description: "Loading height" },
             { prop: 'duration', dataType: `number`, defaultValue: `By type, see demo code first`, description: "Loading duration" },
-            { prop: 'strokeWidth', dataType: `number`, defaultValue: `By type, see demo code first`, description: "Loading strock width" },
+            { prop: 'strokeWidth', dataType: `number`, defaultValue: `By type, see demo code first`, description: "Loading stroke width" },
           ]} />
         </div>
       </div>
