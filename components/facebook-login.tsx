@@ -57,7 +57,7 @@ export const Facebook = () => {
   return (
     <FacebookLogin
       appId="4775861809149271"
-      autoLoad={true}
+      // autoLoad={true}
       fields="name,email,picture"
       onClick={componentClicked}
       callback={responseFacebook}
