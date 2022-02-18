@@ -7,7 +7,6 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import Script from 'next/script'
 
 
 const Home: NextPage = () => {
@@ -16,7 +15,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Galaxy Ultra UI</title>
       </Head>
-      <Script src="static/facebook.js" strategy="beforeInteractive" />
 
       <div>
         <div className='flex flex-col items-center justify-center pb-20 lg:pb-56'>
