@@ -3,6 +3,7 @@ import Breadcrumb from '@galaxy-ultra/breadcrumb'
 import Button from '@galaxy-ultra/button'
 import Card from '@galaxy-ultra/card'
 import { Facebook } from 'components/facebook-login'
+import { Google } from 'components/google-login'
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
@@ -51,6 +52,8 @@ const Home: NextPage = () => {
 
         <div className="mt-10">
           <Facebook />
+
+          <Google />
         </div>
 
         <div className="mt-10 md:mt-20 md:px-10 lg:px-32">
