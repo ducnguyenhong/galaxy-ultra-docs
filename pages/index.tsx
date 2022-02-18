@@ -2,10 +2,13 @@ import Alert from '@galaxy-ultra/alert'
 import Breadcrumb from '@galaxy-ultra/breadcrumb'
 import Button from '@galaxy-ultra/button'
 import Card from '@galaxy-ultra/card'
+import { Facebook } from 'components/facebook-login'
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import Script from 'next/script'
+
 
 const Home: NextPage = () => {
   return (
@@ -13,6 +16,8 @@ const Home: NextPage = () => {
       <Head>
         <title>Galaxy Ultra UI</title>
       </Head>
+      <Script src="static/facebook.js" strategy="beforeInteractive" />
+
       <div>
         <div className='flex flex-col items-center justify-center pb-20 lg:pb-56'>
           <div className='pt-16 md:pt-28 lg:pt-40 px-5 md:px-0'>
@@ -44,6 +49,10 @@ const Home: NextPage = () => {
               </button>
             </div>
           </div>
+        </div>
+
+        <div className="mt-10">
+          <Facebook />
         </div>
 
         <div className="mt-10 md:mt-20 md:px-10 lg:px-32">

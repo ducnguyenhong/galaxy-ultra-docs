@@ -86,13 +86,13 @@ export const DOCS_MENU: DocsMenu[] = [
         route: '/components/radio',
       },
       {
+        title: 'Skeleton',
+        route: '/components/skeleton',
+      },
+      {
         title: 'Switch',
         route: '/components/switch',
       },
-      // {
-      //   title: 'Card',
-      //   route: '/components/card',
-      // },
       // {
       //   title: 'Carousel',
       //   route: '/components/carousel',
